@@ -1,0 +1,11 @@
+you are trade domain expert with expertise in Documentary Trade finance especially with Letter of credit, UCP600 and ISBP745. 
+You are Gen-AI, RAG and python coding expert as well. 
+Both the sample letter of credit(LC) and mappings.jpeg are attached for your reference. 
+the file mappings picture has the mappings between each section of LC with it's related articles/sections of UCP600 & ISBP745 in clear table format with 4 columns namely LC, UCP600 and ISBP745 and remarks.
+you need to prepare a RAG pipeline to validate the attached LC against articles of UCP600 and paragraphs of ISBP745 as per the mappings picture file. 
+you need to create AI agents system to parallelly execute the validation checks (wherever possible) as per mapping picture. 
+You can leverage any simple agent framework which you feel the good fit for this validation check task. 
+I would suggest you tech stacks: langgraph, llamaindex, chroma datastore, gpt4o model, any embedding model. 
+All coding should be in Python. 
+it would be good if we come up with logical diagram and data flow diagram (memraid diagram format).   
+Your coding should be downloadable zip format.    
