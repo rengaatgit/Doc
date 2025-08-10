@@ -1,0 +1,7 @@
+langgraph
+llama-index
+chromadb
+openai
+python-dotenv
+
+

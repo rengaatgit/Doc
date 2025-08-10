@@ -1,0 +1,13 @@
+{
+  "openai_api_key": "your_openai_api_key_here",
+  "model_name": "gpt-4o",
+  "embedding_model": "text-embedding-3-small",
+  "chroma_db_path": "./data/chroma_db",
+  "max_tokens": 4000,
+  "temperature": 0.1,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "top_k_retrieval": 5,
+  "validation_confidence_threshold": 0.8,
+  "parallel_agent_limit": 8
+}
