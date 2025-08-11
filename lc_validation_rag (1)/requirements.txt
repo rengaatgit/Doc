@@ -1,8 +1,0 @@
-
-# Optional - for real deployment
-langgraph>=0.4.0
-llama-index>=0.12.0
-chromadb>=1.0.0
-openai
-httpx
-pdfplumber
